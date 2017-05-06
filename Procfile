@@ -1,1 +1,1 @@
-web: python Karen2.py ${PORT}
+bot: python Karen2.py

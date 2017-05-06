@@ -1,1 +1,1 @@
-web: python Karen2.py
+worker: python Karen2.py
